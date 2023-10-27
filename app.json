@@ -22,7 +22,13 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "pakage": "com.rodrigost7.calculadoraimc"
+      "pakage": "com.rodrigost7.calculadoraimc",
+      "package": "com.rodrigost7.calculadoraimc"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0296b2b0-4ea1-471c-b026-5cb01b501825"
+      }
     }
   }
 }
